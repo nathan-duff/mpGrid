@@ -1,0 +1,9 @@
+.ag-theme-alpine-dark {
+    --ag-background-color: #191919;
+    --ag-header-background-color:  #413e3e;
+    --ag-odd-row-background-color: #413e3e;
+}
+body{
+    margin-right: 0;
+    margin-left: 0;
+}

@@ -1,0 +1,19 @@
+header {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    background-color: #191919;
+}
+
+h1,
+h2 {
+    text-align: left;
+}
+
+.MuiMenu-paper{
+    background-color: "lightblue"
+}
